@@ -1,35 +1,54 @@
 <strong>One figure is better than a thousand words.</strong>
 
-![](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/HeatmapWithMultipleAnnotation.png)
-<a href="https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/HeatmapWithMultipleAnnotation.png" target="_blank" rel="noopener noreferrer">Heatmap with multiple annotation</a>
+PCA plot
+
+![](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/PCA-analysis.png)
 
 ------------------------------------
 
+Multiple ROC plot with confidence interval
+
+![](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/roc-curve-with-ConfidenceInterval.png)
+
+------------------------------------
+
+Heatmap with multiple annotation
+
+![](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/HeatmapWithMultipleAnnotation.png)
+
+------------------------------------
+
+Boxplot
 
 ![](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/boxplot2.png)
-<a href="https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/boxplot2.png" target="_blank" rel="noopener noreferrer">Boxplot</a>
 
 ------------------------------------
+
+Methylation heatmap
 
 ![](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/metHeap.png)
-<a href="https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/metHeap.png" target="_blank" rel="noopener noreferrer">Methylation heatmap</a>
 
 ------------------------------------
+
+Violin plot
 
 ![](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/FPKM.distribution.violinplot.png)
-<a href="https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/FPKM.distribution.violinplot.png" target="_blank" rel="noopener noreferrer">Violin plot</a>
 
 ------------------------------------
+
+Circos
 
 ![](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/circos-com.png)
-<a href="https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/circos-com.png" target="_blank" rel="noopener noreferrer">Circos</a>
 
 ------------------------------------
 
-![](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/mutation-spectrum.png)
-<a href="https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/mutation-spectrum.png" target="_blank" rel="noopener noreferrer">Mutation spectrum</a>
+Mutation spectrum
+
+![Mutation spectrum](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/mutation-spectrum.png)
 
 ------------------------------------
+
+
 
 ![](https://raw.githubusercontent.com/ProfessionalFarmer/f4w/master/1000words/mutation-type-heatmap.png)
 
